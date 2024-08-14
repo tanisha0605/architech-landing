@@ -14,7 +14,7 @@ export const Hero = () => {
         <div className="flex items-center justify-center">
         <a href="#" className="inline-flex gap-3 border py-1 px-2 rounded-lg border-white/30">
           <span className="bg-[linear-gradient(to_right,#F87AFF,#FB93D0,#FFDD99,#C3F0B2,#2FD8FE)] text-transparent bg-clip-text">
-            Version 2.0 is here
+            New Version is here
           </span>
           <span className="inline-flex items-center gap-1">
               <span>Read More</span>
@@ -58,7 +58,7 @@ export const Hero = () => {
         </p>
         </div>
         <div className="flex justify-center mt-8">
-          <button className="bg-white text-black py-3 px-5 rounded-lg font-medium">Get for free</button>
+          <button className="bg-white text-black py-3 px-5 rounded-lg font-medium">Get started</button>
         </div>
       </div>
       
