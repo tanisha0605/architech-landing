@@ -54,6 +54,7 @@ const pricingTiers = [
 
 export const Pricing = () => {
   return (
+    <section id="pricing">
     <div className="bg-black text-white bg-gradient-to-b from-[#5D2CA8] to-black py-[72px] sm:py-24">
       <div className="container">
         <h2 className="text-center text-5xl font-bold tracking-tighter">Pricing</h2>
@@ -91,5 +92,6 @@ export const Pricing = () => {
         </div>
       </div>
     </div>
+    </section>
   );
 };

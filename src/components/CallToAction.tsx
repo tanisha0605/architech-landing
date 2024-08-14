@@ -19,6 +19,7 @@ export const CallToAction = () => {
   const translateY=useTransform(scrollYProgress,[0,1],[40,-40])
 
   return (
+    <section id="calltoaction">
     <div className="bg-black text-white py-[72px] sm:py-24 text-center" ref={containerRef}>
       <div className="container max-w-xl relative">
       <motion.div style={{translateY}}><Image src={sofaImage} alt="Bed Image" className="absolute top-6 left-[calc(100%+36px)]"/></motion.div>
@@ -33,5 +34,6 @@ export const CallToAction = () => {
         </form>
       </div>
     </div>
+    </section>
   );
 };
