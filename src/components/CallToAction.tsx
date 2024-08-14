@@ -26,7 +26,7 @@ export const CallToAction = () => {
       <motion.div style={{translateY}}><Image src={bedImage} alt="Bed Image" className="absolute -top-[120px] right-[calc(100%+24px)]"/></motion.div>
         <h2 className="font-bold text-5xl tracking-tighter sm:text-6xl">Get instant access</h2>
         <p className="text-xl text-white/70 mt-5">
-        Celebrate the joy of accomplishment with an app designed to track your progress and motivate your efforts.
+        Unlock exclusive access and elevate your experience—get started today!
         </p>
         <form className="mt-10 flex flex-col gap-2.5 max-w-sm mx-auto sm:flex-row">
         <input type="email" placeholder="your@email.com" className="h-12 bg-white/20 rounded-lg px-5 font-medium placeholder:text-[#9CA3AF] flex-1" />

@@ -24,7 +24,7 @@ export const ProductShowcase = () => {
       <div className="container ">
         <h2 className="text-center text-5xl sm:text-6xl font-bold tracking-tighter">Intuitive interface</h2>
         <div className="max-w-xl mx-auto">
-        <p className="text-center text-xl text-white/70 mt-5">Celebrate the joy of design with a website tailored to help architects create and refine their floorplans, turning visions into reality.</p>
+        <p className="text-center text-xl text-white/70 mt-5">Explore the brilliance of our stunning visuals and experience the power of our next-gen features. Immerse yourself in innovation like never before.</p>
         </div>
         <div className="flex items-center justify-center h-screen">
           <motion.div
