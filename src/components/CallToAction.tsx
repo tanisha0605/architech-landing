@@ -29,8 +29,9 @@ export const CallToAction = () => {
         Unlock exclusive access and elevate your experience—get started today!
         </p>
         <form className="mt-10 flex flex-col gap-2.5 max-w-sm mx-auto sm:flex-row">
-        <input type="email" placeholder="your@email.com" className="h-12 bg-white/20 rounded-lg px-5 font-medium placeholder:text-[#9CA3AF] flex-1" />
-        <button className="bg-white text-black h-12 rounded-lg px-5">Get access</button>
+        <a href="https://3xzlhnjfyx4.typeform.com/to/dGW0v4fr" className="bg-white text-black h-14 w-full rounded-lg px-5 flex items-center justify-center text-lg font-semibold">
+            Click here to get access!
+        </a>
         </form>
       </div>
     </div>
